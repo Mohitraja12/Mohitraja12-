@@ -6,6 +6,10 @@
 
 <br/>
 
+<img src="https://avatars.githubusercontent.com/u/147861252?v=4" width="150" style="border-radius: 50%;" alt="Mohitraja12"/>
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=Mohitraja12&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 </div>
