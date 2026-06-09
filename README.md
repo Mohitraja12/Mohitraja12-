@@ -4,11 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD4F7&center=true&vCenter=true&width=600&lines=Flutter+%2F+Dart+Developer+%F0%9F%93%B1;Full-Stack+Engineer+(Next.js+%2B+TypeScript);Building+real-world+apps+%F0%9F%9A%80;Open+to+Collaborate+%26+Learn+Together)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Mohitraja12&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Mohitraja12" />
-&nbsp;
-<a href="https://github.com/Mohitraja12?tab=followers">
-  <img src="https://img.shields.io/github/followers/Mohitraja12?label=Followers&style=for-the-badge&color=236ad3" />
-</a>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mohitraja12&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -49,6 +47,8 @@ fun_fact  : I turn chai ☕ into production-ready code
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white)
 
 ---
 
