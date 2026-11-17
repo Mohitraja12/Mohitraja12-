@@ -10,8 +10,7 @@
 
 <br/>
 
-<img src="[https://komarev.com/ghpvc/?username=Mohitraja12&label=Profile+Views&color=0e75b6&style=for-the-badge](https://kommodo.ai/i/SvYUkDFBMaTuiudVbEFg)" alt="profile views" />
-
+<img src="https://komarev.com/ghpvc/?username=Mohitraja12&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </div>
 
 ---
