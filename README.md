@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mohitraja12&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="[https://komarev.com/ghpvc/?username=Mohitraja12&label=Profile+Views&color=0e75b6&style=for-the-badge](https://kommodo.ai/i/SvYUkDFBMaTuiudVbEFg)" alt="profile views" />
 
 </div>
 
@@ -20,8 +20,8 @@
 
 ```yaml
 name      : Mohit Raja
-location  : Gurugram, Haryana, India 🇮🇳
-role      : Flutter Developer & Full-Stack Engineer
+location  : Banglore, Karnataka, India 🇮🇳
+role      : Full Stack Mobile and Web Developer
 focus     : Cross-platform mobile apps, web applications
 currently : Building health tech & agri-tech solutions
 learning  : Advanced Flutter animations, AI integrations
